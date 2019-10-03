@@ -1,4 +1,4 @@
-Welcome to the GitLegio Repository
+Welcome to the GitLegion Repository
 
 This repository holds information for the GitLegion Project 0 including:
 
