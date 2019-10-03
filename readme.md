@@ -1,4 +1,4 @@
-Welcome to the GitLegion Repository
+Welcome to the GitLegion Repository!
 
 This repository holds information for the GitLegion Project 0 including:
 
@@ -7,3 +7,5 @@ This repository holds information for the GitLegion Project 0 including:
  - Ansible Paybooks
  
  and any other relavent infortation for the project.
+
+Stay tuned for more!
