@@ -51,7 +51,7 @@
 
         - name: activate apache2 ssl
           become: true
-          command: sudo a2enmod ssl
+          command: a2enmod ssl
 
         - name: restart apache2
           become: true
