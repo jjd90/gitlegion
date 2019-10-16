@@ -1,4 +1,4 @@
-The following is documentation on how to run the Ansible Playbook and the task that the playbook will perform.
+The following is documentation on how to run the Ansible Playbook and the task that the playbook will perform. All files for the playbook can be found in the "gitlegion/AnsiblePlaybook" directory.
 
 1. In order to first run the playbook; Ansible must be installed on the server via the following commands (installation for Ubuntu):
 
