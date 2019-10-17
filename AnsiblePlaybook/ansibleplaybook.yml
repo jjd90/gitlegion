@@ -53,9 +53,3 @@
           become: true
           command: a2enmod ssl
 
-        - name: restart apache2
-          become: true
-          service:
-                name: apache2
-                state: restarted
-
