@@ -1,5 +1,5 @@
 
-~Route 53 Domain Setup~
+#Route 53 Domain Setup
 
 1. Purchase Top Level Domain (I used Google Domains)
 2. Sign into AWS, go to Route 53
