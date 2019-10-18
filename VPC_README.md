@@ -1,4 +1,4 @@
-# How to create a VPC in AWS:
+# Create a VPC in AWS:
 
 1. Configure the region to US West - Oregon
 2. Create the base VPC using the setup wizard
